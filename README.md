@@ -1,2 +1,2 @@
 # congress
-Congressmen project using Javascript, CSS, HTML5, Bootstrap
+Congressmen project using Javascript, JQuery,CSS, HTML5, Bootstrap
